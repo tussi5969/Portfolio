@@ -6,7 +6,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "Portfolio"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -14,7 +14,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+# copyright = "&copy; Atsushi Miyaji. 2020"
 
 ############################
 ## Advanced options below ##
@@ -27,7 +27,7 @@ theme = "academic"
 enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
+defaultContentLanguage = "ja"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
@@ -67,6 +67,22 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 3
+
+
+
+# [languages]
+#   [languages.ja]
+#     languageName = "あああ"
+#     languageCode = "ja"
+#     contentDir = "content/ja"
+#     weight = 1
+#     [languages.ja.params]
+#   [languages.en]
+#     languageName = "English"
+#     languageCode = "en"
+#     contentDir = "content/en"
+#     weight = 2
+#     [languages.en.params]
 
 [imaging]
   resampleFilter = "lanczos"
