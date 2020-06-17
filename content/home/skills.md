@@ -27,7 +27,7 @@ subtitle = ""
   description = "50%"
 
 [[feature]]
-  icon_path = "gem.svg"
+  icon_path = "ruby.png"
   # icon_pack = "fas"
   name = "Ruby"
   description = "30%"
