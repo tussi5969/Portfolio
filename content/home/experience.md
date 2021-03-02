@@ -28,17 +28,6 @@ date_format = "Jan 2006"
   デイケア施設における介護士の行動認識・ストレス分析に関する研究
   """
 
-[[experience]]
-  title = "エンジニア（インターン）"
-  company = "プロッセル株式会社"
-  company_url = ""
-  location = "リモート"
-  date_start = "2019-11-01"
-  date_end = ""
-  description = """
-  オンライン完結型のビジコン「Online Intern Contest」の運営やWebサイトの作成に関わる。  
-  2020年6月に法人化。
-  """
 
 [[experience]]
   title = "学士"

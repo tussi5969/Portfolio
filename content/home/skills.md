@@ -18,7 +18,7 @@ subtitle = ""
   icon_path = "python.svg"
   icon_pack = "fab"
   name = "Python"
-  description = "60%"
+  description = "70%"
 
 [[feature]]
   icon_path = "vuejs.svg"

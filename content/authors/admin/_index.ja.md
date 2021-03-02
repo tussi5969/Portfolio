@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: 修士
+  - course: 修士(予定)
     institution: 奈良先端科学技術大学院大学 先端科学技術研究科
     year: 2022
   - course: 学士
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "tussy.develpment.5969@gmail.com"
+email: "tussy.develpment.5969[at]gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -72,8 +72,7 @@ user_groups:
 
 奈良先端科学技術大学院大学 情報科学領域 博士前期課程（M1）
 
-7年間高知高専に在籍し、2020年の4月から大学院に進学。
-現在は、ユビキタスコンピューティングシステム研究室に所属。
-センサデータの収集、データ分析に関する研究を行っている。  
-また、株式会社プロッセルのエンジニアとして、Webサイトの作成なども行っている。
+7年間高専に在籍し、2020年の4月から大学院に進学。
+現在は、ユビキタスコンピューティングシステム研究室に所属し、デイケア施設における介護士の行動認識・ストレス分析に関する研究を行っている。
+また、研究活動だけでなく、ハッカソンなどにも積極的に参加している。
 

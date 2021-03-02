@@ -1,9 +1,9 @@
 ---
-title: メルカリ クローンサイト
-summary: 高知県アプリ開発人材育成講座の最終課題で作成。チームで開発を行った。
+title: Beacon Area Count
+summary: 研究室で行われたハッカソンで開発。休憩ルームの使用時間の視覚化を行った。
 tags:
-- Web
-date: "2019-11-16T00:00:00Z"
+- IoT
+date: "2020-09-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,7 +12,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links: 
+links:
 url_code: ""
 url_pdf: ""
 url_slides: ""

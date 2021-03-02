@@ -3,7 +3,7 @@ title: "高い耐故障性を備えた情報通信網構築のための動的ネ
 authors:
 - admin
 - 浦山康洋
-date: "2020-06-18T00:00:00Z"
+date: "2019-04-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
